@@ -1,17 +1,68 @@
 <h1 align="center">Hi 👋, I'm Nayera Sadeek</h1>
-<h3 align="center">A passionate Problem Solver and Backend developer</h3>
+<h3 align="center">🚀 Backend Developer | Laravel & PHP | Repository-Service Pattern</h3>
 
-- 🔭 I’m currently working on **Laravel Projects**
-
-- 🌱 I’m currently learning **Laravel,Testing**
-
-- 📫 How to reach me **nyarasadek010@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nayera-sadeek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nayera-sadeek/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nayera_sadeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nayera_sadeek" height="30" width="40" /></a>
+<p align="center">
+  💡 Passionate about building scalable backend systems · Clean Architecture · Problem Solving
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 👩‍💻 About Me
+
+- 🎓 CS & AI student @ **South Valley National University** (Oct 2023 – Present)
+- 🏗️ Building systems with **Service & Repository Pattern**, **REST APIs**, and **MySQL**
+- ⚡ Active mentor & Deputy Lead @ **ICPC SVNU** — teaching C++ and Data Structures
+- 🌱 Currently deepening skills in **Software Testing & System Design**
+- 🎯 Focused on becoming a **Professional Backend Engineer**
+
+---
+
+### 💼 Experience
+
+**Backend Developer Intern** · Medicaspace *(Jan 2026 – Apr 2026)*
+- Built backend features using Laravel following Repository-Service Pattern
+- Worked with MySQL, migrations, and Eloquent ORM
+
+**Backend Developer** · Bottletech *(Sep 2025 – Jan 2026)*
+- Developed and maintained features using PHP and CodeIgniter
+- Integrated AI tools, chatbots, live chat, and social media APIs (Facebook, Instagram)
+- Optimized MySQL queries for performance and reliability
+
+**Backend Developer Intern** · Huma-Volve *(Sep 2025 – Oct 2025)*
+- Built backend features using Laravel following MVC architecture
+- Integrated third-party REST APIs and handled server-side validation
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+| | | | | | |
+|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
+
+**Frameworks & Libraries**
+
+| | | |
+|---|---|---|
+|<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> |
+
+**Tools**
+
+| | | |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> |
+---
+
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nayera-sadeek/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;<a href="https://codeforces.com/profile/nayera_sadeek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>&nbsp;<a href="https://github.com/NayeraSadeek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📫 Contact Me
+📧 **nyarasadek010@gmail.com**
