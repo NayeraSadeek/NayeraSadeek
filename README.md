@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayera Sadeek</h1>
-<h3 align="center">🚀 Backend Developer | Laravel & PHP | Repository-Service Pattern</h3>
+<h3 align="center">🚀 Backend Developer | Laravel & PHP </h3>
 
 <p align="center">
   💡 Passionate about building scalable backend systems · Clean Architecture · Problem Solving
@@ -9,7 +9,6 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 CS & AI student @ **South Valley National University** (Oct 2023 – Present)
 - 🏗️ Building systems with **Service & Repository Pattern**, **REST APIs**, and **MySQL**
 - ⚡ Active mentor & Deputy Lead @ **ICPC SVNU** — teaching C++ and Data Structures
 - 🌱 Currently deepening skills in **Software Testing & System Design**
